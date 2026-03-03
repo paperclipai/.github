@@ -5,8 +5,8 @@
 <h3 align="center">Open-source orchestration for zero-human companies</h3>
 
 <p align="center">
-  <a href="https://paperclip.dev"><strong>Website</strong></a> &middot;
-  <a href="https://paperclip.dev/docs"><strong>Docs</strong></a> &middot;
+  <a href="https://paperclip.ing"><strong>Website</strong></a> &middot;
+  <a href="https://paperclip.ing/docs"><strong>Docs</strong></a> &middot;
   <a href="https://discord.gg/paperclip"><strong>Discord</strong></a>
 </p>
 
@@ -22,7 +22,7 @@ It looks like a task manager — but under the hood it has org charts, budgets, 
 | --- | --- |
 | [**paperclip**](https://github.com/paperclipai/paperclip) | Core platform — server, CLI, UI, and agent adapters |
 | [**companies**](https://github.com/paperclipai/companies) | Pre-built company templates you can import into Paperclip |
-| [**paperclip-website**](https://github.com/paperclipai/paperclip-website) | Source for [paperclip.dev](https://paperclip.dev) |
+| [**paperclip-website**](https://github.com/paperclipai/paperclip-website) | Source for [paperclip.ing](https://paperclip.ing) |
 
 ### Get started
 
