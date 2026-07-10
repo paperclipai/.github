@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://paperclip.ing"><strong>Website</strong></a> &middot;
-  <a href="https://paperclip.ing/docs"><strong>Docs</strong></a> &middot;
+  <a href="https://docs.paperclip.ing"><strong>Docs</strong></a> &middot;
   <a href="https://discord.gg/paperclip"><strong>Discord</strong></a>
 </p>
 
