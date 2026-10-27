@@ -1,0 +1,12 @@
+---
+description: Do not retry pull requests or dashboard Save while GitHub still rejects them
+alwaysApply: true
+---
+
+# Environment save and pull requests
+
+`llceejll/.github` is a fork of `paperclipai/.github`. Issues are enabled. Pull request creation still fails: the integration acts as `cursoragent`, who is not a collaborator, and the token lacks `pull_requests=write` (`Resource not accessible by integration`). Do not retry pull request creation until that permission is granted.
+
+A run with no environment id cannot persist a dashboard Save. Keep the setup in `.cursor/environment.json`. Do not propose the environment or ask for Save again.
+
+`https://discord.gg/paperclip` answers HTTP 200 and belongs to the Paperclip Gaming guild. The product invite is `https://discord.gg/m4HZY7xNG3`, the same invite linked from docs.paperclip.ing. `paperclipai/paperclip-website` returns 404. The docs source is `paperclipai/paperclip-docs`.

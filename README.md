@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://paperclip.ing"><strong>Website</strong></a> &middot;
   <a href="https://docs.paperclip.ing"><strong>Docs</strong></a> &middot;
-  <a href="https://discord.gg/paperclip"><strong>Discord</strong></a>
+  <a href="https://discord.gg/m4HZY7xNG3"><strong>Discord</strong></a>
 </p>
 
 ---
@@ -22,7 +22,7 @@ It looks like a task manager — but under the hood it has org charts, budgets, 
 | --- | --- |
 | [**paperclip**](https://github.com/paperclipai/paperclip) | Core platform — server, CLI, UI, and agent adapters |
 | [**companies**](https://github.com/paperclipai/companies) | Pre-built company templates you can import into Paperclip |
-| [**paperclip-website**](https://github.com/paperclipai/paperclip-website) | Source for [paperclip.ing](https://paperclip.ing) |
+| [**paperclip-docs**](https://github.com/paperclipai/paperclip-docs) | Source for [docs.paperclip.ing](https://docs.paperclip.ing) |
 
 ### Get started
 
